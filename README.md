@@ -16,5 +16,5 @@ The data files follow the format:
 
 >instance-id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#sentence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#token&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;token&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;token-type{entity-id,"NO-ENTITY"}
 
-The relations files follow the format:
+The relation files follow the format:
 >entity-1-id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;entity-2-id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;relation-type
