@@ -1,4 +1,4 @@
-# scientific-re
+# Relation Classification on Scientific Texts
 CNN for Relation Classification.
 
 The repository contains sample data for reproducing one experiment from the correspondent paper:
