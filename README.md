@@ -5,6 +5,7 @@ The repository contains sample data for reproducing one experiment from the corr
   - model: RC using SciBERT embeddings
   - train: 2A w/o CR
   - test: AI-ML
+  
 To run the experiment simply run ``python3 main.py``
 
 The complete data setups will be released upon accetance.
