@@ -1,14 +1,14 @@
 # Relation Classification on Scientific Texts
 CNN for Relation Classification.
 
-The repository contains sample data for reproducing one experiment from the correspondent paper:
+The repository contains sample data for reproducing one experiment from the corresponding paper:
   - model: RC using SciBERT embeddings
   - train: 2A w/o CR
   - test: AI-ML
   
 To rerun the experiment run ``python3 main.py``
 
-The complete setups will be released upon accetance.
+The complete setups will be released upon acceptance.
 
 All the parameter are in ``src/parameters/parameters.py``
 
