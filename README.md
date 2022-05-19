@@ -1,14 +1,14 @@
 # Relation Classification on Scientific Texts
 CNN for Relation Classification.
 
+*What Do You Mean by Relation Extraction?* A Survey on Datasets and Study on Scientific Relation Classification [[pdf]](https://aclanthology.org/2022.acl-srw.7/)
+
 The repository contains sample data for reproducing one experiment from the corresponding paper:
-  - model: RC using SciBERT embeddings
+  - model: CNN using SciBERT embeddings
   - train: 2A w/o CR
   - test: AI-ML
   
 To rerun the experiment run ``python3 main.py``
-
-The complete setups will be released upon acceptance.
 
 All the parameter are in ``src/parameters/parameters.py``
 
